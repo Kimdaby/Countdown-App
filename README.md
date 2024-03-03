@@ -13,4 +13,3 @@ Countdown App is a web application created using HTML, CSS, and JavaScript. The 
 ## Author
 
 David (Yun) Kim
-git
